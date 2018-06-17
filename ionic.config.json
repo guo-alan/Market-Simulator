@@ -1,6 +1,6 @@
 {
   "name": "marketSimulator",
-  "app_id": "",
+  "app_id": "f0369537",
   "type": "ionic-angular",
   "integrations": {
     "cordova": {}
