@@ -9,4 +9,4 @@ Note: Your browser must have Access-Control-Allow-Origin header present. You can
 - Make sure you have the latest versions of  [NodeJS](https://nodejs.org/en/) and [Ionic and Cordova](http://ionicframework.com/getting-started/) installed on your PC
 - Navigate to the directory of the extracted files `cd c:/path-to-files` in NodeJS with administrative permissions. (Don't type path-to-files)
 - Run `npm install`
-- Run `ionic serve --lab`
+- Run `ionic serve`
